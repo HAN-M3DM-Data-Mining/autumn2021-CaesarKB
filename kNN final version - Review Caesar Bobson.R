@@ -110,5 +110,6 @@ A. Band (2020) https://towardsdatascience.com/how-to-find-the-optimal-value-of-k
 
 
 ##Review Review Review Review Review Review Review Review Review Review Review 
+The author imbedded marginal mistakes (3 to be precise). In the first should include the number 6 in the Data Frame (row 75 till 79). Additionally, The secon mistake refers to the additional bracket included (row 99). And last but not least, the author uses the fuction Summarize() instead of summary().(row 51)
 
-reviewer adds suggestions for improving the model
+#
